@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **suchethas/suchethas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33766410/94354248-63160e80-0047-11eb-954e-e257da064dd3.gif" width="300px">
+ </p>
