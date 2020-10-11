@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/33766410/94354248-63160e80-0047-11eb-954e-e257da064dd3.gif" width="300px">
+  <img src="https://user-images.githubusercontent.com/33766410/95668937-6251a200-0b48-11eb-95f0-858131217cef.gif" width="300px">
  </p>
